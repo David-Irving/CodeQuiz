@@ -39,7 +39,7 @@
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
 ### Website link
-*  https://david-irving.github.io/PasswordGen/
+*  https://david-irving.github.io/CodeQuiz/
 
 ### Repository Link
 * https://github.com/David-Irving/CodeQuiz
