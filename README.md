@@ -45,4 +45,4 @@
 * https://github.com/David-Irving/CodeQuiz
 
 ### Website Preview
-![Website Preview](https://github.com/David-Irving/PasswordGen/blob/main/images/PasswordGenerator.png)
+![Website Preview](https://github.com/David-Irving/CodeQuiz/blob/main/Images/CodeQuizChallenge.png)
