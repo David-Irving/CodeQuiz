@@ -37,6 +37,7 @@
         transition-duration: 200ms;
         transition-timing-function: ease-in-out;
         margin-bottom: 30px;
+        
     }
 
     #starter{
@@ -129,4 +130,8 @@
 
     #endGameBtns{
         margin-top: 10px;
+    }
+
+    #questions{
+        display: inline;
     }
